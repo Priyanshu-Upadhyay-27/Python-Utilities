@@ -8,7 +8,7 @@ __pycache__/
 # Environment variables (contains personal paths — NEVER push)
 .env
 
-# Media files — source and output
+# FileFormat — media input/output folders
 FileFormat/ImgFolder1/
 FileFormat/ImgFolder2/
 FileFormat/ImgFolder3/
@@ -16,10 +16,7 @@ FileFormat/MacD/
 FileFormat/Converted/
 FileFormat/ConvertedVideos/
 
-
-# MoviePy temp files
-VideoFormat/.venv/
-VideoFormat/.idea/
+# VideoFormat — media input/output folders
 VideoFormat/Mac Trip
 VideoFormat/ConvertedVideos/
 VideoFormat/Mac2
@@ -29,3 +26,6 @@ VideoFormat/VideoFolder1
 FileFormat/main.py
 VideoFormat/main.py
 VideoFormat/testin.py
+
+# A prank code, if you want, you can contact me.
+Annoy.py
