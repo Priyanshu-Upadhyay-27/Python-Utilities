@@ -215,7 +215,3 @@ This project is licensed under the [MIT License](./LICENSE) — you're free to u
 - GitHub: [@Priyanshu-Upadhyay-27](https://github.com/Priyanshu-Upadhyay-27)
 
 ---
-
-<p align="center">
-  ⭐ If you found these scripts useful, consider giving the repo a star!
-</p>
