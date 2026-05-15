@@ -24,3 +24,8 @@ VideoFormat/Mac Trip
 VideoFormat/ConvertedVideos/
 VideoFormat/Mac2
 VideoFormat/VideoFolder1
+
+# PyCharm scaffolds (not part of the utilities)
+FileFormat/main.py
+VideoFormat/main.py
+VideoFormat/testin.py
