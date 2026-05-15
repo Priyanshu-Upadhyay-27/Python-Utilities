@@ -1,0 +1,26 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+.venv/
+
+# Environment variables (contains personal paths — NEVER push)
+.env
+
+# Media files — source and output
+FileFormat/ImgFolder1/
+FileFormat/ImgFolder2/
+FileFormat/ImgFolder3/
+FileFormat/MacD/
+FileFormat/Converted/
+FileFormat/ConvertedVideos/
+
+
+# MoviePy temp files
+VideoFormat/.venv/
+VideoFormat/.idea/
+VideoFormat/Mac Trip
+VideoFormat/ConvertedVideos/
+VideoFormat/Mac2
+VideoFormat/VideoFolder1
