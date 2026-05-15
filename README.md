@@ -204,4 +204,18 @@ Python-as-Utility/
 
 ## 📝 License
 
-This project is provided as-is for personal use. Feel free to modify and adapt to your needs.
+This project is licensed under the [MIT License](./LICENSE) — you're free to use, modify, and distribute it.
+
+---
+
+## 👤 Author
+
+**Priyanshu Upadhyay**
+
+- GitHub: [@Priyanshu-Upadhyay-27](https://github.com/Priyanshu-Upadhyay-27)
+
+---
+
+<p align="center">
+  ⭐ If you found these scripts useful, consider giving the repo a star!
+</p>
